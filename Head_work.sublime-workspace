@@ -1,0 +1,488 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"code\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"R",
+				"Register"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"B",
+				"rgba()\tcolor"
+			],
+			[
+				"b",
+				"basefont\tTag"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"fo",
+				"font\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"f",
+				"font\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"bg",
+				"background-image\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"id",
+				"z-index"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"s",
+				"SUBMIT"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<!---Coding By CoderGirl!--->\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">\n  <title>Simple Website Design</title>\n  <!---Custom Css File!--->\n  <link rel=\"stylesheet\" href=\"style.css\">\n</head>\n<body>\n  <div class=\"container\">\n    <nav>\n      <div class=\"logo\">\n        <a href=\"#\">Portfo<span>lio.</span></a>\n      </div>\n      <ul>\n        <li><a href=\"#\">Home</a></li>\n        <li><a href=\"#\">About</a></li>\n        <li><a href=\"#\">Services</a></li>\n        <li><a href=\"#\">Contact</a></li>\n      </ul>\n      <div class=\"buttons\">\n        <a href=\"#\" class=\"login\">Log in</a>\n        <a href=\"file:///D:/ASSHAIK/Registration%20Form/index.html\" class=\"btn\">Register</a>\n      </div>\n    </nav>\n    <div class=\"content\">\n      <h2>Hello,<br>It's Me CoderGirl</h2>\n      <p>I'm A Web Developer & Designer. I Will Make Your Project Beautiful And Attractive,<br>You Can Find Me On GitHub.</p>\n    </div>\n    <div class=\"link\">\n      <a href=\"#\" class=\"hire\">Hire Me</a>\n    </div>\n  </div>\n</body>\n</html>\n",
+			"file": "THE WEB/index.html",
+			"file_size": 1190,
+			"file_write_time": 133479893421694770,
+			"settings":
+			{
+				"buffer_size": 1152,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "THE WEB/style.css",
+			"settings":
+			{
+				"buffer_size": 1420,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/D/ASSHAIK/login potal.html",
+		"/D/ASSHAIK/ChatApp - CodingNepal/ChatApp - CodingNepal/login.php",
+		"/D/ASSHAIK/Formal work/forgotten password.html",
+		"/D/ASSHAIK/ChatApp - CodingNepal/ChatApp - CodingNepal/style.css",
+		"/D/ASSHAIK/ChatApp - CodingNepal/ChatApp - CodingNepal/unzipper.php",
+		"/D/ASSHAIK/ChatApp - CodingNepal/ChatApp - CodingNepal/users.php",
+		"/D/ASSHAIK/ChatApp - CodingNepal/ChatApp - CodingNepal/chat.php",
+		"/D/ASSHAIK/ChatApp - CodingNepal/ChatApp - CodingNepal/chatapp.sql",
+		"/D/ASSHAIK/ChatApp - CodingNepal/ChatApp - CodingNepal/header.php",
+		"/D/ASSHAIK/ChatApp - CodingNepal/ChatApp - CodingNepal/index.php",
+		"/D/ASSHAIK/ChatApp - CodingNepal/ChatApp - CodingNepal/login potal.html",
+		"/D/ASSHAIK/ChatApp - CodingNepal.zip",
+		"/D/ASSHAIK/The web card body/courses.html",
+		"/D/ASSHAIK/The web card body/contact.html",
+		"/D/ASSHAIK/The web card body/css/style.css",
+		"/D/ASSHAIK/The web card body/about.html",
+		"/D/ASSHAIK/The web card body/404.html",
+		"/D/ASSHAIK/The web card body/testimonial.html",
+		"/D/ASSHAIK/The web card body/team.html",
+		"/D/ASSHAIK/The web card body/index.html",
+		"/D/ASSHAIK/THE WEB/style.css",
+		"/D/ASSHAIK/THE WEB/index.html",
+		"/D/ASSHAIK/Formal work/Create account.html",
+		"/D/ASSHAIK/Registration Form/script.js",
+		"/D/ASSHAIK/create-responsive-coffee-website-html-css/Head Work/Head_work.css",
+		"/D/ASSHAIK/create-responsive-coffee-website-html-css/Head Work/Formal work/AI Image Generator JavaScript/index.html",
+		"/D/ASSHAIK/create-responsive-coffee-website-html-css/Responsive Coffee Website HTML and CSS/Head_work.css",
+		"/D/ASSHAIK/create-responsive-coffee-website-html-css/Responsive Coffee Website HTML and CSS/Head_work.html",
+		"/D/ASSHAIK/create-responsive-coffee-website-html-css/Responsive Coffee Website HTML and CSS/style.css",
+		"/D/ASSHAIK/Create account.html",
+		"/D/ASSHAIK/create-responsive-coffee-website-html-css/Responsive Coffee Website HTML and CSS/index.html",
+		"/C/Users/HAMEEDU/Downloads/opera autoupdate/Crash Reports/metadata",
+		"/C/Users/HAMEEDU/Downloads/opera autoupdate/Crash Reports/settings.dat",
+		"/C/Users/HAMEEDU/Downloads/opera autoupdate/CUsersHAMEEDUAppDataLocalProgramsOpera/installing/installer_helper_64.exe",
+		"/C/Users/HAMEEDU/Downloads/opera autoupdate/CUsersHAMEEDUAppDataLocalProgramsOpera/installing/vk_swiftshader_icd.json",
+		"/C/Users/HAMEEDU/Downloads/opera autoupdate/CUsersHAMEEDUAppDataLocalProgramsOpera/installing/installer.exe",
+		"/C/Users/HAMEEDU/Downloads/PsiKey.dll",
+		"/E/Corel CorelDRAW Graphics Suite X5/Crack/PsiKey.dll",
+		"/D/ASSHAIK/Alert Box/index.html",
+		"/D/ASSHAIK/LOG_IN.html",
+		"/D/ASSHAIK/forgotten password.html",
+		"/C/Users/HAMEEDU/Desktop/CODE/already have an account.html",
+		"/C/Users/HAMEEDU/Desktop/CODE/create an account.html",
+		"/C/Users/HAMEEDU/Desktop/CODE/Alert Box/index.html",
+		"/C/Users/HAMEEDU/Desktop/CODE/Alert Box/style.css",
+		"/C/Users/HAMEEDU/Desktop/CODE/Confirm.html",
+		"/C/Users/HAMEEDU/Desktop/CODE/1.5",
+		"/C/Users/HAMEEDU/Desktop/CODE/1.4",
+		"/C/Users/HAMEEDU/Desktop/CODE/1.3.html",
+		"/C/Users/HAMEEDU/Desktop/CODE/1st coding.html",
+		"/C/Users/HAMEEDU/Desktop/GRAPHICS FOLDER/online stuff/SportyBet Games_files/aviator.html",
+		"/C/Users/HAMEEDU/Desktop/CODE/sport.css",
+		"/C/Users/HAMEEDU/Desktop/GRAPHICS FOLDER/online stuff/SportyBet Games.html",
+		"/C/Users/HAMEEDU/Desktop/CODE/1.1",
+		"/C/Users/HAMEEDU/Desktop/CODE/1.2",
+		"/C/Users/HAMEEDU/Desktop/CODE/sport.html",
+		"/C/Users/HAMEEDU/Desktop/CODE/script.html",
+		"/C/Users/HAMEEDU/Desktop/CODE/Confirm.css",
+		"/C/Users/HAMEEDU/Desktop/LOGIN/LOGIN.html",
+		"/C/Users/HAMEEDU/Desktop/CODE/link.html",
+		"/C/Users/HAMEEDU/Desktop/html/001.html",
+		"/C/Users/HAMEEDU/Desktop/html/script.js",
+		"/C/Users/HAMEEDU/Desktop/html/style.css",
+		"/C/Users/HAMEEDU/Desktop/CODE/AI Image Generator JavaScript/index.html",
+		"/C/Users/HAMEEDU/Desktop/Web/index.html",
+		"/C/Users/HAMEEDU/Desktop/New folder (2)/df3c62aca80fb99f4a9a2ee31b139e83.jpg",
+		"/C/Users/HAMEEDU/Desktop/ammarou.html",
+		"/C/Users/HAMEEDU/Desktop/CODE/style.css",
+		"/C/Users/HAMEEDU/Desktop/CODE/cofee/index (2).html",
+		"/C/Users/HAMEEDU/Desktop/CODE/cofee/style.css",
+		"/C/Users/HAMEEDU/Desktop/Alert Box/Alert Box/style.css",
+		"/C/Users/HAMEEDU/Desktop/CODE/forgotten password.html",
+		"/C/Users/HAMEEDU/Desktop/Alert Box/Alert Box/index.html",
+		"/C/Users/HAMEEDU/Desktop/CODE/company/styles.css",
+		"/C/Users/HAMEEDU/Desktop/CODE/company/index (3).html",
+		"/C/Users/HAMEEDU/Desktop/CODE/index (2).html",
+		"/C/Users/HAMEEDU/Desktop/CODE/link.php",
+		"/C/Users/HAMEEDU/Desktop/CODE/salim.html",
+		"/C/Users/HAMEEDU/Desktop/CODE/MAYFOL.html",
+		"/C/Users/HAMEEDU/Desktop/code side/forget password.html",
+		"/D/usman/cal1.html",
+		"/C/Users/HAMEEDU/Desktop/code side/LOGIN.html",
+		"/D/usman/Codding/LOGIN.html",
+		"/D/usman/python.py",
+		"/D/usman/cal1.js",
+		"/D/usman/cal1.css",
+		"/D/usman/as.html",
+		"/D/usman/hju.html",
+		"/D/usman/man.html",
+		"/D/usman/calculator.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"about",
+			"carousel-1",
+			"container-fluid bg-primary py-5 mb-5 page-header",
+			">\n",
+			"ava",
+			"popping",
+			"com",
+			"Avatar",
+			"avata",
+			"user name",
+			"username",
+			"model",
+			"\tlinre",
+			"\")",
+			"de",
+			"ava",
+			"avatar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"Avatar"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "THE WEB/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								333,
+								333
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 1,
+							"translate_tabs_to_spaces": true,
+							"wrap_width": 70
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "THE WEB/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 29.0
+	},
+	"pinned_build_system": "",
+	"project": "Head_work.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 128.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
